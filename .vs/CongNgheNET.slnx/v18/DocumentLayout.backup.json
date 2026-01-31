@@ -1,10 +1,98 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\CongNgheNET\\CongNgheNET\\",
+  "WorkspaceRootPath": "D:\\Documents\\1\\CongNgheNET\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\congnghenet\\congnghenet\\congnghenet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formusermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formreturn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formpublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formmembermanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formborrowreturndetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formborrowreturndetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formborrowreturndetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formborrowreturndetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formbookmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|D:\\Documents\\1\\CongNgheNET\\congnghenet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\1\\congnghenet\\congnghenet\\forms\\formbookmanagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AA621A92-33DE-53F2-29AD-EBC675C6F56D}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\forms\\formbookmanagement.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +102,272 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormSettings.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormSettings.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormSettings.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormSettings.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:00:42.435Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "FormReturn.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReturn.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormReturn.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReturn.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:00:27.881Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormReport.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReport.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormReport.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReport.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:00:23.089Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormReturn.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReturn.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormReturn.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormReturn.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormReturn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:37.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormSettings.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormSettings.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormSettings.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormSettings.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormSettings.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:40.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormUserManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormUserManagement.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormUserManagement.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormUserManagement.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormUserManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:44.451Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormReport.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormReport.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormReport.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormReport.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormReport.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:33.318Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormPublic.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormPublic.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormPublic.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormPublic.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormPublic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T20:00:08.69Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormPublic.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormPublic.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormPublic.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormPublic.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormPublic.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:30:33.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormMemberManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMemberManagement.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormMemberManagement.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMemberManagement.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormMemberManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:59:53.871Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormMemberManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMemberManagement.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormMemberManagement.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormMemberManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormMemberManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:19.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormMain.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMain.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:59:48.491Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormMain.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormMain.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:14.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormLogin.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormLogin.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:59:33.671Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormLogin.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormLogin.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormLogin.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:08.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FormBorrowReturnDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrowReturnDetails.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBorrowReturnDetails.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrowReturnDetails.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormBorrowReturnDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:59:26.381Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormBorrowReturnDetails.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrowReturnDetails.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBorrowReturnDetails.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrowReturnDetails.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrowReturnDetails.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:31:04.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FormBorrow.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrow.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBorrow.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrow.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormBorrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:59:20.632Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FormBorrow.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrow.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBorrow.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrow.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBorrow.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:30:58.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FormBookManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBookManagement.cs",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormBookManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T19:58:42.563Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormBookManagement.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBookManagement.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T18:30:46.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormBookManagement.resx",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.resx",
+              "RelativeDocumentMoniker": "CongNgheNET\\Forms\\FormBookManagement.resx",
+              "ToolTip": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Forms\\FormBookManagement.resx",
+              "RelativeToolTip": "CongNgheNET\\Forms\\FormBookManagement.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-31T18:56:48.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\Form1.cs",
               "RelativeDocumentMoniker": "CongNgheNET\\Form1.cs",
               "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Form1.cs [Design]",
-              "RelativeToolTip": "CongNgheNET\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-31T17:53:19.253Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-01-31T17:53:19.253Z"
             }
           ]
         }

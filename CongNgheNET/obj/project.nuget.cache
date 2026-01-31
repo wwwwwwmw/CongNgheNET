@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Xu8dFoo91vQ=",
+  "dgSpecHash": "L+2Anzkcmi0=",
   "success": true,
-  "projectFilePath": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
+  "projectFilePath": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\LECOO\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\LECOO\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
