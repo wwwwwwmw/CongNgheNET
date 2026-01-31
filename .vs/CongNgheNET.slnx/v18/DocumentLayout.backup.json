@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\CongNgheNET\\CongNgheNET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|d:\\documents\\congnghenet\\congnghenet\\congnghenet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B42A403-EA3F-411D-80E1-2231D5BFB4A7}|CongNgheNET\\CongNgheNET.csproj|solutionrelative:congnghenet\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Form1.cs",
+              "RelativeDocumentMoniker": "CongNgheNET\\Form1.cs",
+              "ToolTip": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\Form1.cs [Design]",
+              "RelativeToolTip": "CongNgheNET\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T17:53:19.253Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
