@@ -1,4 +1,4 @@
-namespace LibraryManagement.Forms
+﻿namespace LibraryManagement.Forms
 {
     partial class FormLogin
     {
@@ -75,7 +75,6 @@ namespace LibraryManagement.Forms
             this.btnConfig.TabIndex = 9;
             this.btnConfig.Text = "⚙";
             this.btnConfig.UseVisualStyleBackColor = false;
-            this.btnConfig.Click += new System.EventHandler(this.btnConfig_Click);
             // 
             // btnExit
             // 
@@ -91,7 +90,6 @@ namespace LibraryManagement.Forms
             this.btnExit.TabIndex = 8;
             this.btnExit.Text = "Thoát";
             this.btnExit.UseVisualStyleBackColor = false;
-            this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
             // btnLogin
             // 
@@ -107,7 +105,6 @@ namespace LibraryManagement.Forms
             this.btnLogin.TabIndex = 7;
             this.btnLogin.Text = "Đăng nhập";
             this.btnLogin.UseVisualStyleBackColor = false;
-            this.btnLogin.Click += new System.EventHandler(this.btnLogin_Click);
             // 
             // lblStatus
             // 
@@ -128,7 +125,6 @@ namespace LibraryManagement.Forms
             this.txtPassword.PlaceholderText = "Nhập mật khẩu";
             this.txtPassword.Size = new System.Drawing.Size(300, 27);
             this.txtPassword.TabIndex = 5;
-            this.txtPassword.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtPassword_KeyPress);
             // 
             // lblPassword
             // 
@@ -148,7 +144,6 @@ namespace LibraryManagement.Forms
             this.txtUsername.PlaceholderText = "Nhập tên đăng nhập";
             this.txtUsername.Size = new System.Drawing.Size(300, 27);
             this.txtUsername.TabIndex = 3;
-            this.txtUsername.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtUsername_KeyPress);
             // 
             // lblUsername
             // 
@@ -194,7 +189,6 @@ namespace LibraryManagement.Forms
             this.Name = "FormLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Đăng nhập - Quản lý Thư viện";
-            this.Load += new System.EventHandler(this.FormLogin_Load);
             this.mainPanel.ResumeLayout(false);
             this.mainPanel.PerformLayout();
             this.ResumeLayout(false);

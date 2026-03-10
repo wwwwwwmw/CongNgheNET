@@ -17,6 +17,17 @@ namespace LibraryManagement.Forms
         public FormLogin()
         {
             InitializeComponent();
+            SetupEvents();
+        }
+
+        private void SetupEvents()
+        {
+            this.Load += FormLogin_Load;
+            btnConfig.Click += btnConfig_Click;
+            btnExit.Click += btnExit_Click;
+            btnLogin.Click += btnLogin_Click;
+            txtUsername.KeyPress += txtUsername_KeyPress;
+            txtPassword.KeyPress += txtPassword_KeyPress;
         }
 
         private void FormLogin_Load(object sender, EventArgs e)

@@ -64,3 +64,4 @@ D:\Documents\CongNgheNET\CongNgheNET\CongNgheNET\obj\Debug\net8.0-windows\refint
 D:\Documents\CongNgheNET\CongNgheNET\CongNgheNET\obj\Debug\net8.0-windows\LibraryManagement.pdb
 D:\Documents\CongNgheNET\CongNgheNET\CongNgheNET\obj\Debug\net8.0-windows\CongNgheNET.genruntimeconfig.cache
 D:\Documents\CongNgheNET\CongNgheNET\CongNgheNET\obj\Debug\net8.0-windows\ref\LibraryManagement.dll
+D:\Documents\CongNgheNET\CongNgheNET\CongNgheNET\obj\Debug\net8.0-windows\CongNgheNET.sourcelink.json
