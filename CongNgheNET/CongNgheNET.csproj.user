@@ -4,13 +4,25 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormBookDetail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormBookDetailPublic.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FormBookManagement.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\FormBorrow.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormBorrowHistory.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FormBorrowReturnDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormConnectionConfig.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\FormLogin.cs">
@@ -22,7 +34,13 @@
     <Compile Update="Forms\FormMemberManagement.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="Forms\FormPayFine.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="Forms\FormPublic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\FormRenewBook.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Forms\FormReport.cs">

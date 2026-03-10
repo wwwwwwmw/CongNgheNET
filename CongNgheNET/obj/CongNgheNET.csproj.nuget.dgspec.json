@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj": {}
+    "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj": {
+    "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
+        "projectUniqueName": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
         "projectName": "LibraryManagement",
-        "projectPath": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
+        "projectPath": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\CongNgheNET.csproj",
         "packagesPath": "C:\\Users\\LECOO\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\CongNgheNET\\CongNgheNET\\CongNgheNET\\obj\\",
+        "outputPath": "D:\\Documents\\1\\CongNgheNET\\CongNgheNET\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LECOO\\AppData\\Roaming\\NuGet\\NuGet.Config",
